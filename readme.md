@@ -5,7 +5,8 @@
 
 1. 在项目目录下执行
 ```shell
-scrapy crawls fidding
+scrapy crawl fidding
 ```
+2. 爬取信息存放在```items.jl```中
 
 > happy coding!
