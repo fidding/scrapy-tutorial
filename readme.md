@@ -1,5 +1,5 @@
 # scrapy-tutorial
-一个简单的scrapy爬虫教程- 爬取fidding博客所有文章
+一个简单的scrapy爬虫教程- 爬取[fidding博客](http://www.fidding.me/)所有文章
 
 ## Usage
 
